@@ -14,4 +14,4 @@
 
 --> List commands: \?
 
---> Quit psql: \q
+--> Quit psql: \q 
