@@ -6,7 +6,7 @@
 . PostgreSQL architecture
 . PostgreSQL tools (psql, pgAdmin, etc.)
 
-2. Basic SQL Commands
+2. Basic SQL Commands.
 . Connecting to the database
 . Creating and managing databases
 . Basic data types
