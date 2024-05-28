@@ -1,0 +1,17 @@
+                            Some PostgreSQL commands
+
+--> Connecting to PostgreSQL (UBUNTU): sudo -u postgres psql;
+
+--> Create a database: CREATE DATABASE mydatabase;
+
+--> Connect to a database: \c mydatabase
+
+--> Describe a table: \d tableName
+
+--> List all databases: \l
+
+--> List all tables: \dt
+
+--> List commands: \?
+
+--> Quit psql: \q

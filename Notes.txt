@@ -1,4 +1,4 @@
-                                            PostgreSQL
+                                             PostgreSQL Topics
 
 1. Introduction to PostgreSQL
 . Overview of PostgreSQL
